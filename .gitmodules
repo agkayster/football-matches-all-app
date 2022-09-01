@@ -1,3 +1,6 @@
 # [submodule "epl-games"]
 # 	path = epl-games
 # 	url = https://github.com/epl-games.git
+[submodule "epl-games"]
+	path = epl-games
+	url = https://github.com/agkayster/football-matches-nextjs-app
