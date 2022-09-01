@@ -1,3 +1,3 @@
-[submodule "frontend/epl-games"]
-	path = frontend/epl-games
-	url = https://github.com/frontend/epl-games
+[submodule "epl-games"]
+	path = epl-games
+	url = https://github.com/epl-games.git
